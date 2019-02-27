@@ -1,0 +1,9 @@
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"],
+  "plugins": ["@babel/plugin-proposal-class-properties"]
+  /* Faz com que o  navegador entenda o que há de novo
+    no javascript e o preset react também f
+    az com que o navegador entenda comandos exclusivos
+    do react
+  */
+}
